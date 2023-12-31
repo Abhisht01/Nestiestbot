@@ -6,7 +6,7 @@
 [circleci-image]: https://img.shields.io/circleci/build/github/nestjs/nest/master?token=abc123def456
 [circleci-url]: https://circleci.com/gh/nestjs/nest
 
-  <p align="center">Simple NestJS telegram Bot</p>
+  <p align="center">NestiestBot- a simple weather Telegrambot</p>
     <p align="center">
 <a href="https://www.npmjs.com/~nestjscore" target="_blank"><img src="https://img.shields.io/npm/v/@nestjs/core.svg" alt="NPM Version" /></a>
 <a href="https://www.npmjs.com/~nestjscore" target="_blank"><img src="https://img.shields.io/npm/l/@nestjs/core.svg" alt="Package License" /></a>
@@ -18,22 +18,7 @@
 <a href="https://opencollective.com/nest#sponsor" target="_blank"><img src="https://opencollective.com/nest/sponsors/badge.svg" alt="Sponsors on Open Collective" /></a>
   <a href="https://paypal.me/kamilmysliwiec" target="_blank"><img src="https://img.shields.io/badge/Donate-PayPal-ff3f59.svg"/></a>
     <a href="https://opencollective.com/nest#sponsor"  target="_blank"><img src="https://img.shields.io/badge/Support%20us-Open%20Collective-41B883.svg" alt="Support us"></a>
-  <a href="https://twitter.com/nestframework" target="_blank"><img src="https://img.shields.io/twitter/follow/nestframework.svg?style=social&label=Follow"></a>
-</p>
-  <!--[![Backers on Open Collective](https://opencollective.com/nest/backers/badge.svg)](https://opencollective.com/nest#backer)
-  [![Sponsors on Open Collective](https://opencollective.com/nest/sponsors/badge.svg)](https://opencollective.com/nest#sponsor)-->
-
-## Description
-
-- To run the project, you must add two environment variables:
-
-  1. `TELEGRAM_TOKEN` -> Your telegram token
-  2. `TEST_CHAT_ID` -> A test chat id for your code to send messages
-
-- [BotFather manual for developers](https://core.telegram.org/bots)
-- [BotFather contact on Telegram](https://telegram.me/BotFather)
-- [NPM Package for Telegram](https://www.npmjs.com/package/node-telegram-bot-api)
-
+  <a href="https://twitter.com/nestframework" target="_blank"><img src="https://img.shields.io/twitter/follow/nestframework.svg?style=social&label=Follow"></a> </p>
 ## Video fixes
 
 1. You can actually install types for the project by running: `yarn add @types/node-telegram-bot-api --dev`. There are commented lines on the service layer with the typed code
@@ -93,6 +78,3 @@ $ yarn test:e2e
 $ yarn test:cov
 ```
 
-## Stay in touch
-
-- Website - [https://mpcsj.com](https://mpcsj.com/)
